@@ -53,21 +53,24 @@ Key financial metrics including:
 - Significant correlation between critical acclaim and box office success.
 - Pixar's highest-earning films typically have strong international markets.
 ### 📈 How to Use this Dashboard
-Interactive Filtering:
+### Interactive Filtering:
 
-Use slicers to filter movies by year, genre, or ratings.
-Click on movie titles for detailed insights.
-Tooltips & Navigation:
+- Use slicers to filter movies by year, genre, or ratings.
+= Click on movie titles for detailed insights.
 
-Hover over charts for additional data.
-Navigate seamlessly between sections (Overview, Box Office).
-🔖 Files in Repository
-Power BI Dashboard (PIXAR.pbix)
-CSV Data Files:
-pixar_films.csv
-pixar_people.csv
-public_response.csv
-pixar_data_dictionary.csv
+###  Tooltips & Navigation:
+
+- Hover over charts for additional data.
+- Navigate seamlessly between sections (Overview, Box Office).
+
+### 🔖 Files in Repository
+- Power BI Dashboard (PIXAR.pbix)
+- CSV Data Files:
+-- pixar_films.csv
+-- pixar_people.csv
+-- public_response.csv
+-- pixar_data_dictionary.csv
+
 Screenshots:
 sc1.png
 sc2.png
