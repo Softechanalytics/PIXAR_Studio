@@ -73,7 +73,7 @@ Key financial metrics including:
 
 Screenshots:
 
-[image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc1.png)
+[image ](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc1.png)
 
 [image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc2.png)
 
