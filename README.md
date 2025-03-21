@@ -1,4 +1,4 @@
-#🎬 Pixar Automation Studio Dashboard 📊
+# 🎬 Pixar Automation Studio Dashboard 📊
 
 A comprehensive, interactive data analytics dashboard built in Power BI, showcasing insights into Pixar movies' box office performance, critical reception, budget trends, and more.
 
