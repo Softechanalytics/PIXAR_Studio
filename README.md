@@ -66,17 +66,21 @@ Key financial metrics including:
 ### 🔖 Files in Repository
 - Power BI Dashboard (PIXAR.pbix)
 - CSV Data Files:
--- pixar_films.csv
--- pixar_people.csv
--- public_response.csv
--- pixar_data_dictionary.csv
+  - pixar_films.csv
+  - pixar_people.csv
+  - public_response.csv
+  - pixar_data_dictionary.csv
 
 Screenshots:
-sc1.png
-sc2.png
-sc3.png
-🤝 Contributions & Feedback
+
+[image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc1.png)
+
+[image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc2.png)
+
+[image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc3.png)
+
+### 🤝 Contributions & Feedback
 Feel free to fork the repository and enhance the analysis. Pull requests are welcome. For questions or feedback, open an issue or connect via GitHub discussions.
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
