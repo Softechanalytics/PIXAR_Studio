@@ -73,11 +73,11 @@ Key financial metrics including:
 
 Screenshots:
 
-[image ](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc1.png)
+![image ](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc1.png)
 
-[image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc2.png)
+![image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc2.png)
 
-[image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc3.png)
+![image alt](https://github.com/Softechanalytics/PIXAR_Studio/blob/f67e2acb43288ae7036e5b69188495894c622eb6/sc3.png)
 
 ### 🤝 Contributions & Feedback
 Feel free to fork the repository and enhance the analysis. Pull requests are welcome. For questions or feedback, open an issue or connect via GitHub discussions.
